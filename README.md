@@ -1,16 +1,45 @@
-## Hi there 👋
+### hey, I'm Muhammet ☕
 
-<!--
-**muhammet59/muhammet59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+       (  )   (   )  )
+        ) (   )  (  (
+        ( )  (    ) )
+       _____________
+      <_____________> ___
+      |             |/ _       |               | | |
+      |               |_| |
+   ___|             |\___/
+  /    \___________/      \_____________________/
+```
 
-Here are some ideas to get you started:
+> *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+$ whoami
+> developer, tinkerer, perpetual apprentice.
+> tea-fueled, curiosity-driven, building things meant to last.
+```
+
+---
+
+#### 🌿 what I care about
+- **Craft:** Prefer clarity over cleverness. Code is written once, read a thousand times.
+- **Reliability:** Automated tests, resilient workflows, and quiet consistency.
+- **Simplicity:** The Unix philosophy — do one thing, and do it well.
+
+#### 🛠️ current rabbit holes
+- Clean architecture, test automation, and resilient software ecosystems
+- Refining developer tooling and tending to small digital gardens
+- Brewing pour-over coffee and reading timeless computing papers
+
+#### 🧭 environment & craft
+```text
+runtime    :: macOS / POSIX
+languages  :: Java, Swift, Python, TypeScript
+focus      :: test automation, reliable systems, calm tech
+fuel       :: warm tea & dark roast
+```
+
+---
+
+📫 **reach out:** [muhammet59aydin@gmail.com](mailto:muhammet59aydin@gmail.com) · [muhammet59.github.io](https://muhammet59.github.io)
