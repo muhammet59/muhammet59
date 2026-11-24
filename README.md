@@ -14,9 +14,10 @@
 
 ---
 
-### Open-Source AI & Engineering Projects
+### Open-Source Tools & Projects
 | Repository | Stack | Description |
 | :--- | :--- | :--- |
+| **[diff-guard](https://github.com/muhammet59/diff-guard)** | `TypeScript` · `Git` · `SARIF` | Fast, zero-dependency Git diff security & hygiene scanner with Shannon entropy secret detection, destructive SQL checks, pre-commit hook installer, and SARIF 2.1.0 export. |
 | **[llm-eval-harness](https://github.com/muhammet59/llm-eval-harness)** | `Python` · `CI` | Zero-dependency LLM evaluation & regression testing harness (JSON schema checks, keyword coverage, p95 latency, OpenAI/Gemini/Anthropic adapters). |
 | **[ai-doc-extractor](https://github.com/muhammet59/ai-doc-extractor)** | `TypeScript` · `Node.js` | Schema-validated structured JSON extraction engine with self-healing validation-error retries and token budget guardrails. |
 | **[agent-tool-runner](https://github.com/muhammet59/agent-tool-runner)** | `TypeScript` · `AI Agents` | Type-safe multi-step AI agent & tool-calling orchestrator with per-tool timeouts, loop detection, and structured execution traces. |
