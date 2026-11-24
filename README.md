@@ -1,47 +1,34 @@
-### hey, I'm Muhammet ☕
+# Muhammet Aydın
 
-```text
-      (  )   (   )  )
-       ) (   )  (  (
-       ( )  (    ) )
-       _____________
-      <_____________> ___
-      |             |/ _ \
-      |               | | |
-      |               |_| |
-   ___|             |\___/
-  /    \___________/    \
-  \_____________________/
-```
-
-> *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
-
-```text
-$ whoami
-> developer, tinkerer, perpetual apprentice.
-> tea-fueled, curiosity-driven, building things meant to last.
-```
+**AI & Full-Stack Software Engineer** · LLM & Vision AI Pipelines · iOS (SwiftUI) · Next.js & TypeScript  
+📍 Istanbul, Turkey (UTC+3 · Remote Worldwide / EMEA & US Overlap) · 🌐 [muhammet.online](https://muhammet.online) · 💼 [LinkedIn](https://www.linkedin.com/in/muhammet-aydin-234529229/)
 
 ---
 
-#### 🌿 what I care about
-- **Craft:** Prefer clarity over cleverness. Code is written once, read a thousand times.
-- **Reliability:** Automated tests, resilient workflows, and quiet consistency.
-- **Simplicity:** The Unix philosophy — do one thing, and do it well.
-
-#### 🛠️ current rabbit holes
-- Clean architecture, test automation, and resilient software ecosystems
-- Refining developer tooling and tending to small digital gardens
-- Brewing pour-over coffee and reading timeless computing papers
-
-#### 🧭 environment & craft
-```text
-runtime    :: macOS / POSIX
-languages  :: Java, Swift, Python, TypeScript
-focus      :: test automation, reliable systems, calm tech
-fuel       :: warm tea & dark roast
-```
+### Shipped Products
+- **Moiré** *(iOS · App Store)* — Vision AI virtual try-on & digital wardrobe studio powered by Gemini + App-Check-protected Firebase Cloud Functions.
+- **Trivelo** *(iOS & watchOS)* — Full-stack social fitness, GPS recording & HealthKit telemetry platform built with SwiftUI, Firebase, RevenueCat, and XCTest/XCUITest suites.
+- **Bütçem** *(iOS · App Store)* — 6-language personal finance suite with automated bank CSV parsing, savings simulations, and Face ID protection.
+- **Fovex** & **Blockrix** *(iOS · App Store)* — Zero-cloud on-device RSVP speed reader (PDF/EPUB) and 300+ level arcade puzzle game.
+- **[muhammet.online](https://muhammet.online)** — Personal portfolio built with Next.js & TypeScript.
 
 ---
 
-📫 **reach out:** [muhammet59aydin@gmail.com](mailto:muhammet59aydin@gmail.com) · [muhammet59.github.io](https://muhammet59.github.io)
+### Open-Source AI & Engineering Projects
+| Repository | Stack | Description |
+| :--- | :--- | :--- |
+| **[llm-eval-harness](https://github.com/muhammet59/llm-eval-harness)** | `Python` · `CI` | Zero-dependency LLM evaluation & regression testing harness (JSON schema checks, keyword coverage, p95 latency, OpenAI/Gemini/Anthropic adapters). |
+| **[ai-doc-extractor](https://github.com/muhammet59/ai-doc-extractor)** | `TypeScript` · `Node.js` | Schema-validated structured JSON extraction engine with self-healing validation-error retries and token budget guardrails. |
+| **[agent-tool-runner](https://github.com/muhammet59/agent-tool-runner)** | `TypeScript` · `AI Agents` | Type-safe multi-step AI agent & tool-calling orchestrator with per-tool timeouts, loop detection, and structured execution traces. |
+| **[HepsiburadaTestAutomation](https://github.com/muhammet59/HepsiburadaTestAutomation)** | `Java` · `Selenium 4` | End-to-end automated QA verification suite using Selenium WebDriver 4, JUnit 5, and Maven. |
+
+---
+
+### Core Stack
+- **AI & Agents:** Gemini, Claude, OpenAI APIs, Vision AI Pipelines, Structured Output Validation, LLM Evaluation, Tool-Calling Orchestration
+- **Languages & Frameworks:** Swift, SwiftUI, TypeScript, Next.js, Python, Node.js, Java, C#
+- **Cloud, Data & QA:** Firebase (Auth, Firestore, Cloud Functions, App Check), SQL, REST APIs, RevenueCat, Selenium WebDriver 4, JUnit 5, XCTest / XCUITest
+
+---
+
+📫 **Contact:** [muhammet59aydin@gmail.com](mailto:muhammet59aydin@gmail.com) · **Portfolio:** [muhammet.online](https://muhammet.online)
